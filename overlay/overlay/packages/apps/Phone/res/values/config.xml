@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Sprint Message Wait Indicator Quirk -->
+    <bool name="sprint_mwi_quirk">true</bool>
+
+</resources>
