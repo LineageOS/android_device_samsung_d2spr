@@ -20,6 +20,6 @@
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
 <resources>
-    <!-- Show 1/2G networks as 3G on Sprint. -->
-    <bool name="config_showMin3G">true</bool>
+    <!-- When true, show 1xRTT and CDMA networks as 3G. Inherit config_showMin3G. -->
+    <bool name="config_showMore3G">true</bool>
 </resources>
