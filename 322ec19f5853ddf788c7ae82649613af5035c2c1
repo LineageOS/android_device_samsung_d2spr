@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAW3///bM\u003d",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2260
+      },
+      "writtenOn": "2012-08-27T10:10:38Z",
+      "side": 0,
+      "message": "Add empty line just before here?",
+      "revId": "322ec19f5853ddf788c7ae82649613af5035c2c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3///bI\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2260
+      },
+      "writtenOn": "2012-08-27T10:10:38Z",
+      "side": 0,
+      "message": "Either remove this empty line, or add one before \u003c/resources\u003e.",
+      "revId": "322ec19f5853ddf788c7ae82649613af5035c2c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3///bE\u003d",
+        "filename": "overlay/packages/apps/Mms/res/xml/mms_config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2260
+      },
+      "writtenOn": "2012-08-27T10:10:38Z",
+      "side": 0,
+      "message": "Remove empty line here (after patch there\u0027s two blank lines in a row).",
+      "revId": "322ec19f5853ddf788c7ae82649613af5035c2c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3///bA\u003d",
+        "filename": "overlay/packages/apps/Mms/res/xml/mms_config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2260
+      },
+      "writtenOn": "2012-08-27T10:10:38Z",
+      "side": 0,
+      "message": "Remove empty line here (after patch there\u0027s two blank lines in a row).",
+      "revId": "322ec19f5853ddf788c7ae82649613af5035c2c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
