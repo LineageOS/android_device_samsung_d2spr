@@ -17,6 +17,9 @@
 ## (2) Also get non-open-source specific aspects if available
 $(call inherit-product-if-exists, vendor/samsung/d2spr/d2spr-vendor.mk)
 
+PRODUCT_COPY_FILES := \
+	device/samsung/d2spr/apns-conf.xml:system/etc/apns-conf.xml
+
 ## overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/d2spr/overlay
 
