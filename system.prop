@@ -19,4 +19,5 @@ ro.telephony.default_network=8
 keyguard.no_require_sim=true
 DEVICE_PROVISIONED=1
 telephony.lteOnCdmaDevice=1
+telephony.sms.pseudo_multipart=1
 ro.config.svlte1x=true
