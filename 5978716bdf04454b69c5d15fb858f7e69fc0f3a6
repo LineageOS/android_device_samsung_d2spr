@@ -16,6 +16,24 @@
       "revId": "5978716bdf04454b69c5d15fb858f7e69fc0f3a6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_f2d5a1b9",
+        "filename": "board-info.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9419
+      },
+      "writtenOn": "2014-11-13T14:24:30Z",
+      "side": 1,
+      "message": "Yeah, I agree.",
+      "parentUuid": "1a122d0e_bf93f24e",
+      "revId": "5978716bdf04454b69c5d15fb858f7e69fc0f3a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
