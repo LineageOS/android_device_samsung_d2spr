@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_bf93f24e",
+        "filename": "board-info.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-11-13T04:11:46Z",
+      "side": 1,
+      "message": "i wonder if we should just get rid of this, its kind of a pain to maintain",
+      "revId": "5978716bdf04454b69c5d15fb858f7e69fc0f3a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
